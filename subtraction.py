@@ -5,7 +5,7 @@ def subtract(a, b):
 
 # Example usage
 if __name__ == "__main__":
-    num1 = 10
+    num1 = 30
     num2 = 3
     result = subtract(num1, num2)
     print(f"{num1} - {num2} = {result}")
