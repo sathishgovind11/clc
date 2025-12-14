@@ -6,4 +6,4 @@ num2 = float(input("Enter second number: "))
 sum = num1 + num2
 
 # Display the result
-print(f"The sum of {num1} and {num2} is {sum}")
+print(f"The sum of it {num1} and {num2} is {sum}")
